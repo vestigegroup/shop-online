@@ -11,7 +11,7 @@ PHP 5.4.0 or later <br>
 ### Admin Credentials
 Admin -> Username - <b>admin</b> | password - <b>admin</b> <br>
 ### User Credentials
-User -> username - <b>hicham</b> | password - <b>admin</b>
+User -> username - <b>hicham</b> | password - <b>admin</b> <br>
 User -> username - <b>dyaa</b> | password - <b>admin</b>
 
 
